@@ -16,3 +16,6 @@ I made a basic design and encountered an error that took me a long time to resol
 I fixed the error and made the final design
 
 <img width="1915" height="764" alt="Screenshot 2026-01-28 215335" src="https://github.com/user-attachments/assets/4d7b76a1-a0e3-4b9b-bb4b-b9656db12b29" />
+
+
+Everything was made by me with the few exceptions of ChatGPT debugging the main javascript Solve() function which i worte and the ai debugged
